@@ -1,0 +1,17 @@
+#carouselExampleDark .carousel-inner img{
+    width: 200px;
+    height: 300px;
+}
+#carouselExampleDark{width: 600px;
+height: 400px;
+margin-left: 400px;}
+#cards{
+    display: flex;
+    gap: 70px;
+    margin-left: 150px;
+
+}
+h1{margin-left: 40%;}
+#heart{
+    font-size: 2rem;
+}
